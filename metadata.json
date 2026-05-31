@@ -1,0 +1,6 @@
+{
+  "name": "TranscribeIT",
+  "description": "Real-time audio-to-text conversion with an intuitive and simple dashboard, powered by Gemini AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
